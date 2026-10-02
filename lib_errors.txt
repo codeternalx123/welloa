@@ -1,0 +1,125 @@
+  error • The name 'HealthFactory' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'HealthFactory' • lib/core/di/injection_container.dart:74:40 • non_type_as_type_argument
+  error • The function 'HealthFactory' isn't defined. Try importing the library that defines 'HealthFactory', correcting the name to the name of an existing function, or defining a function named 'HealthFactory' • lib/core/di/injection_container.dart:75:10 • undefined_function
+  error • Undefined class 'HealthFactory'. Try changing the name to the name of an existing class, or creating a class with the name 'HealthFactory' • lib/core/permissions/permission_manager.dart:5:9 • undefined_class
+  error • The method 'generateGuidance' isn't defined for the type 'ClaudeService'. Try correcting the name to the name of an existing method, or defining a method named 'generateGuidance' • lib/core/services/ai_debate_engine.dart:74:45 • undefined_method
+  error • The method 'generateGuidance' isn't defined for the type 'ClaudeService'. Try correcting the name to the name of an existing method, or defining a method named 'generateGuidance' • lib/core/services/ai_debate_engine.dart:98:44 • undefined_method
+  error • Undefined class 'HealthFactory'. Try changing the name to the name of an existing class, or creating a class with the name 'HealthFactory' • lib/core/services/circadian_sync_service.dart:22:9 • undefined_class
+  error • A value of type 'double' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int' • lib/core/services/circadian_sync_service.dart:46:33 • invalid_assignment
+  error • A value of type 'double' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int' • lib/core/services/circadian_sync_service.dart:47:34 • invalid_assignment
+  error • Target of URI doesn't exist: '../network/network_info.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist • lib/core/services/cloud/cloud_sync_service.dart:3:8 • uri_does_not_exist
+  error • Undefined class 'NetworkInfo'. Try changing the name to the name of an existing class, or creating a class with the name 'NetworkInfo' • lib/core/services/cloud/cloud_sync_service.dart:8:9 • undefined_class
+  error • Target of URI doesn't exist: '../../features/social/domain/models/tribe_member.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist • lib/core/services/cloud/tribe_firestore_service.dart:2:8 • uri_does_not_exist
+  error • The name 'TribeMember' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'TribeMember' • lib/core/services/cloud/tribe_firestore_service.dart:10:15 • non_type_as_type_argument
+  error • Undefined name 'TribeMember'. Try correcting the name to one that is defined, or defining the name • lib/core/services/cloud/tribe_firestore_service.dart:17:41 • undefined_identifier
+  error • The name 'TribeMember' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'TribeMember' • lib/core/services/cloud/tribe_firestore_service.dart:22:15 • non_type_as_type_argument
+  error • Undefined name 'TribeMember'. Try correcting the name to one that is defined, or defining the name • lib/core/services/cloud/tribe_firestore_service.dart:30:41 • undefined_identifier
+  error • Expected to find ',' • lib/core/services/dna_integration_service.dart:23:47 • expected_token
+  error • Invalid constant value • lib/core/services/dna_integration_service.dart:23:47 • invalid_constant
+  error • Too many positional arguments: 0 expected, but 9 found. Try removing the extra arguments • lib/core/services/dna_integration_service.dart:23:47 • extra_positional_arguments
+  error • Undefined name 's'. Try correcting the name to one that is defined, or defining the name • lib/core/services/dna_integration_service.dart:23:47 • undefined_identifier
+  error • Arguments of a constant creation must be constant expressions. Try making the argument a valid constant, or use 'new' to call the constructor • lib/core/services/dna_integration_service.dart:23:55 • const_with_non_constant_argument
+  error • Expected to find ',' • lib/core/services/dna_integration_service.dart:23:55 • expected_token
+  error • Undefined name 'poor'. Try correcting the name to one that is defined, or defining the name • lib/core/services/dna_integration_service.dart:23:55 • undefined_identifier
+  error • Arguments of a constant creation must be constant expressions. Try making the argument a valid constant, or use 'new' to call the constructor • lib/core/services/dna_integration_service.dart:23:60 • const_with_non_constant_argument
+  error • Expected to find ',' • lib/core/services/dna_integration_service.dart:23:60 • expected_token
+  error • Undefined name 'response'. Try correcting the name to one that is defined, or defining the name • lib/core/services/dna_integration_service.dart:23:60 • undefined_identifier
+  error • Arguments of a constant creation must be constant expressions. Try making the argument a valid constant, or use 'new' to call the constructor • lib/core/services/dna_integration_service.dart:23:69 • const_with_non_constant_argument
+  error • Expected to find ',' • lib/core/services/dna_integration_service.dart:23:69 • expected_token
+  error • Undefined name 'to'. Try correcting the name to one that is defined, or defining the name • lib/core/services/dna_integration_service.dart:23:69 • undefined_identifier
+  error • Arguments of a constant creation must be constant expressions. Try making the argument a valid constant, or use 'new' to call the constructor • lib/core/services/dna_integration_service.dart:23:72 • const_with_non_constant_argument
+  error • Expected to find ',' • lib/core/services/dna_integration_service.dart:23:72 • expected_token
+  error • Undefined name 'saturated'. Try correcting the name to one that is defined, or defining the name • lib/core/services/dna_integration_service.dart:23:72 • undefined_identifier
+  error • Expected to find ',' • lib/core/services/dna_integration_service.dart:23:82 • expected_token
+  error • Invalid constant value • lib/core/services/dna_integration_service.dart:23:82 • invalid_constant
+  error • Undefined name 'fat'. Try correcting the name to one that is defined, or defining the name • lib/core/services/dna_integration_service.dart:23:82 • undefined_identifier
+  error • Arguments of a constant creation must be constant expressions. Try making the argument a valid constant, or use 'new' to call the constructor • lib/core/services/dna_integration_service.dart:23:92 • const_with_non_constant_argument
+  error • Expected to find ',' • lib/core/services/dna_integration_service.dart:23:92 • expected_token
+  error • Undefined name 'LDL'. Try correcting the name to one that is defined, or defining the name • lib/core/services/dna_integration_service.dart:23:92 • undefined_identifier
+  error • Arguments of a constant creation must be constant expressions. Try making the argument a valid constant, or use 'new' to call the constructor • lib/core/services/dna_integration_service.dart:23:96 • const_with_non_constant_argument
+  error • Expected to find ',' • lib/core/services/dna_integration_service.dart:23:96 • expected_token
+  error • Undefined name 'extremely'. Try correcting the name to one that is defined, or defining the name • lib/core/services/dna_integration_service.dart:23:96 • undefined_identifier
+  error • Expected to find ',' • lib/core/services/dna_integration_service.dart:23:106 • expected_token
+  error • Invalid constant value • lib/core/services/dna_integration_service.dart:23:106 • invalid_constant
+  error • Undefined name 'low'. Try correcting the name to one that is defined, or defining the name • lib/core/services/dna_integration_service.dart:23:106 • undefined_identifier
+  error • Expected an identifier • lib/core/services/dna_integration_service.dart:23:110 • missing_identifier
+  error • Unterminated string literal • lib/core/services/dna_integration_service.dart:23:111 • unterminated_string_literal
+  error • Expected to find ',' • lib/core/services/health/background_sync_worker.dart:42:58 • expected_token
+  error • Too many positional arguments: 1 expected, but 3 found. Try removing the extra positional arguments, or specifying the name for named arguments • lib/core/services/health/background_sync_worker.dart:42:58 • extra_positional_arguments_could_be_named
+  error • Undefined name 'dataPointsFound'. Try correcting the name to one that is defined, or defining the name • lib/core/services/health/background_sync_worker.dart:42:58 • undefined_identifier
+  error • Expected to find ',' • lib/core/services/health/background_sync_worker.dart:42:73 • expected_token
+  error • The returned type 'double' isn't returnable from a 'int' function, as required by the closure's context • lib/core/services/health/health_data_mapper.dart:27:62 • return_of_invalid_type_from_closure
+  error • Undefined class 'HealthFactory'. Try changing the name to the name of an existing class, or creating a class with the name 'HealthFactory' • lib/core/services/health/health_sync_service.dart:8:9 • undefined_class
+  error • Undefined name 'HealthFactory'. Try correcting the name to one that is defined, or defining the name • lib/core/services/health/health_sync_service.dart:43:16 • undefined_identifier
+  error • The named parameter 'aiCacheService' is required, but there's no corresponding argument. Try adding the required argument • lib/core/services/nutrition_ai_service.dart:10:40 • missing_required_argument
+  error • The named parameter 'circuitBreaker' is required, but there's no corresponding argument. Try adding the required argument • lib/core/services/nutrition_ai_service.dart:10:40 • missing_required_argument
+  error • The named parameter 'aiCacheService' is required, but there's no corresponding argument. Try adding the required argument • lib/features/aeg_graph/presentation/providers/aeg_ddd_provider.dart:10:52 • missing_required_argument
+  error • The named parameter 'circuitBreaker' is required, but there's no corresponding argument. Try adding the required argument • lib/features/aeg_graph/presentation/providers/aeg_ddd_provider.dart:10:52 • missing_required_argument
+  error • The named parameter 'dao' is required, but there's no corresponding argument. Try adding the required argument • lib/features/aeg_graph/presentation/providers/aeg_ddd_provider.dart:13:12 • missing_required_argument
+  error • The name 'AuditEntry' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'AuditEntry' • lib/features/bio_arbitrage/widgets/proof_of_reversal_card.dart:6:14 • non_type_as_type_argument
+  error • The named parameter 'aiCacheService' is required, but there's no corresponding argument. Try adding the required argument • lib/features/bio_twin/presentation/providers/bio_twin_ddd_provider.dart:12:51 • missing_required_argument
+  error • The named parameter 'circuitBreaker' is required, but there's no corresponding argument. Try adding the required argument • lib/features/bio_twin/presentation/providers/bio_twin_ddd_provider.dart:12:51 • missing_required_argument
+  error • The named parameter 'dao' is required, but there's no corresponding argument. Try adding the required argument • lib/features/bio_twin/presentation/providers/bio_twin_ddd_provider.dart:16:12 • missing_required_argument
+  error • Target of URI doesn't exist: '../domain/models/agent_persona.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist • lib/features/board_of_directors/presentation/pages/board_of_directors_ui.dart:4:8 • uri_does_not_exist
+  error • The name 'DebateMessage' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'DebateMessage' • lib/features/board_of_directors/presentation/pages/board_of_directors_ui.dart:19:14 • non_type_as_type_argument
+  error • Undefined class 'DailyVerdict'. Try changing the name to the name of an existing class, or creating a class with the name 'DailyVerdict' • lib/features/board_of_directors/presentation/pages/board_of_directors_ui.dart:21:3 • undefined_class
+  error • Undefined class 'DebateMessage'. Try changing the name to the name of an existing class, or creating a class with the name 'DebateMessage' • lib/features/board_of_directors/presentation/pages/board_of_directors_ui.dart:91:30 • undefined_class
+  error • Undefined class 'DailyVerdict'. Try changing the name to the name of an existing class, or creating a class with the name 'DailyVerdict' • lib/features/board_of_directors/presentation/pages/board_of_directors_ui.dart:133:28 • undefined_class
+  error • Arguments of a constant creation must be constant expressions. Try making the argument a valid constant, or use 'new' to call the constructor • lib/features/board_of_directors/presentation/pages/board_of_directors_ui.dart:144:25 • const_with_non_constant_argument
+  error • Expected to find ',' • lib/features/board_of_directors/presentation/pages/board_of_directors_ui.dart:144:25 • expected_token
+  error • Too many positional arguments: 1 expected, but 4 found. Try removing the extra positional arguments, or specifying the name for named arguments • lib/features/board_of_directors/presentation/pages/board_of_directors_ui.dart:144:25 • extra_positional_arguments_could_be_named
+  error • Undefined name 's'. Try correcting the name to one that is defined, or defining the name • lib/features/board_of_directors/presentation/pages/board_of_directors_ui.dart:144:25 • undefined_identifier
+  error • Arguments of a constant creation must be constant expressions. Try making the argument a valid constant, or use 'new' to call the constructor • lib/features/board_of_directors/presentation/pages/board_of_directors_ui.dart:144:27 • const_with_non_constant_argument
+  error • Expected to find ',' • lib/features/board_of_directors/presentation/pages/board_of_directors_ui.dart:144:27 • expected_token
+  error • Undefined name 'Verdict'. Try correcting the name to one that is defined, or defining the name • lib/features/board_of_directors/presentation/pages/board_of_directors_ui.dart:144:27 • undefined_identifier
+  error • Expected to find ',' • lib/features/board_of_directors/presentation/pages/board_of_directors_ui.dart:144:34 • expected_token
+  error • Unterminated string literal • lib/features/board_of_directors/presentation/pages/board_of_directors_ui.dart:144:35 • unterminated_string_literal
+  error • Expected to find ',' • lib/features/board_of_directors/presentation/pages/board_of_directors_ui.dart:145:13 • expected_token
+  error • The named parameter 'aiCacheService' is required, but there's no corresponding argument. Try adding the required argument • lib/features/causal_insights/presentation/providers/causal_ddd_provider.dart:14:55 • missing_required_argument
+  error • The named parameter 'circuitBreaker' is required, but there's no corresponding argument. Try adding the required argument • lib/features/causal_insights/presentation/providers/causal_ddd_provider.dart:14:55 • missing_required_argument
+  error • The named parameter 'aiCacheService' is required, but there's no corresponding argument. Try adding the required argument • lib/features/coach/presentation/providers/coach_provider.dart:31:54 • missing_required_argument
+  error • The named parameter 'circuitBreaker' is required, but there's no corresponding argument. Try adding the required argument • lib/features/coach/presentation/providers/coach_provider.dart:31:54 • missing_required_argument
+  error • The named parameter 'aiCacheService' is required, but there's no corresponding argument. Try adding the required argument • lib/features/discover/presentation/providers/dynamic_unicorn_provider.dart:9:63 • missing_required_argument
+  error • The named parameter 'circuitBreaker' is required, but there's no corresponding argument. Try adding the required argument • lib/features/discover/presentation/providers/dynamic_unicorn_provider.dart:9:63 • missing_required_argument
+  error • Expected to find ',' • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:50 • expected_token
+  error • Undefined name 's'. Try correcting the name to one that is defined, or defining the name • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:50 • undefined_identifier
+  error • Expected to find ',' • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:52 • expected_token
+  error • Undefined name 'Risk'. Try correcting the name to one that is defined, or defining the name • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:52 • undefined_identifier
+  error • Expected to find ',' • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:56 • expected_token
+  error • Too many positional arguments: 4 expected, but 15 found. Try removing the extra arguments • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:56 • extra_positional_arguments
+  error • Expected to find ',' • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:78 • expected_token
+  error • Undefined name 'Strict'. Try correcting the name to one that is defined, or defining the name • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:78 • undefined_identifier
+  error • Expected to find ',' • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:85 • expected_token
+  error • Undefined name 'Saturated'. Try correcting the name to one that is defined, or defining the name • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:85 • undefined_identifier
+  error • Expected to find ',' • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:95 • expected_token
+  error • Undefined name 'Fat'. Try correcting the name to one that is defined, or defining the name • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:95 • undefined_identifier
+  error • Expected to find ',' • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:99 • expected_token
+  error • Undefined name 'Limit'. Try correcting the name to one that is defined, or defining the name • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:99 • undefined_identifier
+  error • Expected to find ',' • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:105 • expected_token
+  error • Undefined name 'Required'. Try correcting the name to one that is defined, or defining the name • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:105 • undefined_identifier
+  error • Expected to find ',' • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:113 • expected_token
+  error • Unterminated string literal • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:27:115 • unterminated_string_literal
+  error • Expected to find ',' • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:28:13 • expected_token
+  error • Expected to find ')' • lib/features/epigenetics/presentation/pages/methylation_dashboard.dart:32:11 • expected_token
+  error • The named parameter 'aiQuestion' is required, but there's no corresponding argument. Try adding the required argument • lib/features/food_scan/food_scan_provider.dart:40:20 • missing_required_argument
+  error • The named parameter 'dailyGoal' is required, but there's no corresponding argument. Try adding the required argument • lib/features/food_scan/food_scan_provider.dart:40:20 • missing_required_argument
+  error • The named parameter 'metric1Label' is required, but there's no corresponding argument. Try adding the required argument • lib/features/food_scan/food_scan_provider.dart:40:20 • missing_required_argument
+  error • The named parameter 'metric1Value' is required, but there's no corresponding argument. Try adding the required argument • lib/features/food_scan/food_scan_provider.dart:40:20 • missing_required_argument
+  error • The named parameter 'metric2Label' is required, but there's no corresponding argument. Try adding the required argument • lib/features/food_scan/food_scan_provider.dart:40:20 • missing_required_argument
+  error • The named parameter 'metric2Value' is required, but there's no corresponding argument. Try adding the required argument • lib/features/food_scan/food_scan_provider.dart:40:20 • missing_required_argument
+  error • The named parameter 'aiCacheService' is required, but there's no corresponding argument. Try adding the required argument • lib/features/food_scan/presentation/providers/food_scan_ddd_provider.dart:11:51 • missing_required_argument
+  error • The named parameter 'circuitBreaker' is required, but there's no corresponding argument. Try adding the required argument • lib/features/food_scan/presentation/providers/food_scan_ddd_provider.dart:11:51 • missing_required_argument
+  error • The named parameter 'dao' is required, but there's no corresponding argument. Try adding the required argument • lib/features/food_scan/presentation/providers/food_scan_ddd_provider.dart:15:12 • missing_required_argument
+  error • The named parameter 'aiCacheService' is required, but there's no corresponding argument. Try adding the required argument • lib/features/kinematic/presentation/providers/kinematic_provider.dart:11:49 • missing_required_argument
+  error • The named parameter 'circuitBreaker' is required, but there's no corresponding argument. Try adding the required argument • lib/features/kinematic/presentation/providers/kinematic_provider.dart:11:49 • missing_required_argument
+  error • Target of URI doesn't exist: 'aging_velocity_chart.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist • lib/features/telemetry_dashboard/presentation/pages/telemetry_dashboard.dart:2:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: 'hrv_scatter_plot.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist • lib/features/telemetry_dashboard/presentation/pages/telemetry_dashboard.dart:3:8 • uri_does_not_exist
+  error • The method 'AgingVelocityChart' isn't defined for the type 'TelemetryDashboardPage'. Try correcting the name to the name of an existing method, or defining a method named 'AgingVelocityChart' • lib/features/telemetry_dashboard/presentation/pages/telemetry_dashboard.dart:54:22 • undefined_method
+  error • The method 'HrvScatterPlot' isn't defined for the type 'TelemetryDashboardPage'. Try correcting the name to the name of an existing method, or defining a method named 'HrvScatterPlot' • lib/features/telemetry_dashboard/presentation/pages/telemetry_dashboard.dart:76:22 • undefined_method
+  error • Expected to find ',' • lib/features/telemetry_dashboard/presentation/widgets/aging_velocity_chart.dart:125:36 • expected_token
+  error • Undefined name 'Bio'. Try correcting the name to one that is defined, or defining the name • lib/features/telemetry_dashboard/presentation/widgets/aging_velocity_chart.dart:125:36 • undefined_identifier
+  error • Expected to find ',' • lib/features/telemetry_dashboard/presentation/widgets/aging_velocity_chart.dart:125:39 • expected_token
+  error • Too many positional arguments: 2 expected, but 6 found. Try removing the extra positional arguments, or specifying the name for named arguments • lib/features/telemetry_dashboard/presentation/widgets/aging_velocity_chart.dart:125:39 • extra_positional_arguments_could_be_named
+  error • Expected to find ',' • lib/features/telemetry_dashboard/presentation/widgets/aging_velocity_chart.dart:125:44 • expected_token
+  error • Undefined name 'Chrono'. Try correcting the name to one that is defined, or defining the name • lib/features/telemetry_dashboard/presentation/widgets/aging_velocity_chart.dart:125:44 • undefined_identifier
+  error • Expected to find ',' • lib/features/telemetry_dashboard/presentation/widgets/aging_velocity_chart.dart:125:50 • expected_token
+  error • The method 'ScatterTooltipData' isn't defined for the type 'HrvScatterPlot'. Try correcting the name to the name of an existing method, or defining a method named 'ScatterTooltipData' • lib/features/telemetry_dashboard/presentation/widgets/hrv_scatter_plot.dart:81:33 • undefined_method

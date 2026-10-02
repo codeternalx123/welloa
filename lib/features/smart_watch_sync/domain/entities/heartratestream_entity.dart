@@ -1,0 +1,2 @@
+import 'package:equatable/equatable.dart';
+class HeartRateStreamEntity extends Equatable { final String id; final DateTime timestamp; const HeartRateStreamEntity({required this.id, required this.timestamp}); @override List<Object?> get props => [id, timestamp]; }

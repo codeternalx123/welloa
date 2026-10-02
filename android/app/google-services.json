@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "326768546875",
+    "project_id": "welloa",
+    "storage_bucket": "welloa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326768546875:android:5343d284fe0fb29236b81e",
+        "android_client_info": {
+          "package_name": "com.welloa.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzPHrgCk9sZ4sfyTGaoMvN-zVjCxmvRuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326768546875:android:8e7d8892b340342836b81e",
+        "android_client_info": {
+          "package_name": "com.welloa.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzPHrgCk9sZ4sfyTGaoMvN-zVjCxmvRuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
